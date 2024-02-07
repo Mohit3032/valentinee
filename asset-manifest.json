@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mohit3032/valentinee.git/static/css/main.b9061cf8.css",
+    "main.js": "/Mohit3032/valentinee.git/static/js/main.b2526a15.js",
+    "static/js/787.f22b8f29.chunk.js": "/Mohit3032/valentinee.git/static/js/787.f22b8f29.chunk.js",
+    "index.html": "/Mohit3032/valentinee.git/index.html",
+    "main.b9061cf8.css.map": "/Mohit3032/valentinee.git/static/css/main.b9061cf8.css.map",
+    "main.b2526a15.js.map": "/Mohit3032/valentinee.git/static/js/main.b2526a15.js.map",
+    "787.f22b8f29.chunk.js.map": "/Mohit3032/valentinee.git/static/js/787.f22b8f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9061cf8.css",
+    "static/js/main.b2526a15.js"
+  ]
+}
